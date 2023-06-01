@@ -2,7 +2,7 @@
   "name": "node-starter",
   "version": "0.0.0",
   "scripts": {
-    "start": "nodemon *.js"
+    "dev": "nodemon *.js"
   },
   "dependencies": {
     "fs": "*",
