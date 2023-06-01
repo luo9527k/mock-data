@@ -5,6 +5,8 @@
     "start": "nodemon *.js"
   },
   "dependencies": {
+    "fs": "*",
+    "mockjs": "^1.1.0",
     "nodemon": "^2.0.12"
   }
 }
